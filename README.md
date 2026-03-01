@@ -79,12 +79,15 @@
 ## 📈 GitHub Stats
 
 <div align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Safeeya-Munawwar&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Safeeya's GitHub Stats" width="49%" style="display:inline-block; vertical-align:top; margin-right: 1%;" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Safeeya-Munawwar&show_icons=true&locale=en&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="49%" style="display:inline-block; vertical-align:top;" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safeeya-Munawwar&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="49%" style="display:inline-block; vertical-align:top;" />
 
   <br/><br/>
 
+  <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Safeeya-Munawwar&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
 </div>
 
