@@ -5,8 +5,8 @@
 </h1>
 
 <p align="center">
-  <strong>Full-Stack Developer | Web & App Developer</strong> skilled in 
-  <code>React</code>, <code>Next.js</code>, <code>Node.js</code>, <code>Express</code>, <code>PHP</code>, <code>Java</code>, <code>MySQL</code>, <code>MongoDB</code>, and more.
+  <strong>Full-Stack Developer | MERN Stack Specialist | Web & App Developer</strong> 
+  Skilled in <code>React</code>, <code>Next.js</code>, <code>Node.js</code>, <code>Express</code>, <code>PHP</code>, <code>Java</code>, <code>MySQL</code>, <code>MongoDB</code>, and more.
 </p>
 
 ---
