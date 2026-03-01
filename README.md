@@ -6,17 +6,17 @@
 
 <p align="center">
   <strong>Full-Stack Developer | Web & App Developer</strong> skilled in 
-  <code>React</code>, <code>Node.js</code>, <code>PHP</code>, <code>Java</code>, <code>MySQL</code>, and more.
+  <code>React</code>, <code>Next.js</code>, <code>Node.js</code>, <code>Express</code>, <code>PHP</code>, <code>Java</code>, <code>MySQL</code>, <code>MongoDB</code>, and more.
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- Motivated and detail-oriented Full-Stack Developer with hands-on experience building responsive web and mobile applications using React, Node.js, Express, and Sequelize with MySQL.
+- Motivated and detail-oriented Full-Stack Developer with hands-on experience building responsive web and mobile applications using React, Next.js, Node.js, Express, and Sequelize with MySQL and MongoDB.
 - Currently pursuing a Higher National Diploma in Information Technology at Advanced Technological Institute – Kandy with a strong academic record (GPA: 3.96/4.0).
-- Passionate about software engineering, RESTful API development, and delivering clean, efficient code.
-- Skilled in both frontend and backend development, mentoring students, and contributing to meaningful digital solutions.
+- Passionate about software engineering, RESTful API development, and delivering clean, efficient, and maintainable code.
+- Experienced in both frontend and backend development, mentoring students, and contributing to meaningful digital solutions.
 - Always eager to learn modern technologies, collaborate on open-source projects, and build impactful software.
 
 ---
@@ -27,19 +27,19 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="42" height="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="42" height="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="42" height="42"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="42" height="42"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="42" height="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="42" height="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" height="42"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="42" height="42"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="42" height="42"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="42" height="42"/>
-  <img src="https://img.icons8.com/officel/480/null/java-eclipse.png" alt="Eclipse" width="42" height="42"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="42" height="42"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual Studio" width="42" height="42"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" width="42" height="42"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="42" height="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="42" height="42"/>
 </p>
 
 ---
@@ -50,7 +50,7 @@
 - **Email:** shafiyasha0036@gmail.com  
 - **LinkedIn:** [https://www.linkedin.com/in/safeeya-munawwar](https://www.linkedin.com/in/safeeya-munawwar)  
 - **GitHub:** [https://github.com/Safeeya-Munawwar](https://github.com/Safeeya-Munawwar)  
-- **Portfolio:** [https://safeeya-munawwar-personal-portfolio.vercel.app/](https://safeeya-munawwar-personal-portfolio.vercel.app/)
+- **Portfolio:** [https://safeeya-munawwar-portfolio.vercel.app](https://safeeya-munawwar-portfolio.vercel.app)
 
 ---
 
@@ -87,3 +87,10 @@
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Safeeya-Munawwar&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" alt="GitHub Activity Graph" width="100%" />
 </div>
+
+---
+
+## 🚀 Let's Connect
+
+I'm always open to **collaborating on projects, internships, and open-source contributions**.  
+Feel free to reach out through **LinkedIn, GitHub, Email, or WhatsApp** — I’d love to connect and discuss innovative ideas!
